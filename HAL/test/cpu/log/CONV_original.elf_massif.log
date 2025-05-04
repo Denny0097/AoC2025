@@ -1,0 +1,7 @@
+==1864602== Massif, a heap profiler
+==1864602== Copyright (C) 2003-2017, and GNU GPL'd, by Nicholas Nethercote
+==1864602== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==1864602== Command: ./CONV_original.elf
+==1864602== Parent PID: 1864427
+==1864602== 
+==1864602== 

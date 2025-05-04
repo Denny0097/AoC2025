@@ -1,0 +1,7 @@
+==1864835== Massif, a heap profiler
+==1864835== Copyright (C) 2003-2017, and GNU GPL'd, by Nicholas Nethercote
+==1864835== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==1864835== Command: ./LINEAR_original.elf
+==1864835== Parent PID: 1864831
+==1864835== 
+==1864835== 

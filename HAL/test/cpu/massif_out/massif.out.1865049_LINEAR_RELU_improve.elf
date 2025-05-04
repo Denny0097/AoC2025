@@ -1,0 +1,11 @@
+desc: --massif-out-file=massif_out/massif.out.%p_LINEAR_RELU_improve.elf
+cmd: ./LINEAR_RELU_improve.elf
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty

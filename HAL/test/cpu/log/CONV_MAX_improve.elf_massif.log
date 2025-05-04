@@ -1,0 +1,7 @@
+==1865013== Massif, a heap profiler
+==1865013== Copyright (C) 2003-2017, and GNU GPL'd, by Nicholas Nethercote
+==1865013== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==1865013== Command: ./CONV_MAX_improve.elf
+==1865013== Parent PID: 1864946
+==1865013== 
+==1865013== 

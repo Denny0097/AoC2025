@@ -1,0 +1,39 @@
+desc: --massif-out-file=massif_out/massif.out.%p_CONV_MAX_original.elf
+cmd: ./CONV_MAX_original.elf
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=144720
+mem_heap_B=32768
+mem_heap_extra_B=8
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=4414819011
+mem_heap_B=32768
+mem_heap_extra_B=8
+mem_stacks_B=0
+heap_tree=peak
+n1: 32768 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 32768 0x109478: conv_maxpooling (in /home2/aoc2025/n26131960/n26131960_lab4/test/cpu/CONV_MAX_original.elf)
+  n1: 32768 0x109231: qconv2d_relu_maxpool_cpu (in /home2/aoc2025/n26131960/n26131960_lab4/test/cpu/CONV_MAX_original.elf)
+   n0: 32768 0x109C9E: main (in /home2/aoc2025/n26131960/n26131960_lab4/test/cpu/CONV_MAX_original.elf)
+#-----------
+snapshot=3
+#-----------
+time=4414819011
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty

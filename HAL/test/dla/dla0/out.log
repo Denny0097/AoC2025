@@ -1,0 +1,5 @@
+[DLA test] qconv2d_relu
+Input shape (N=1, C=3, H=8, W=8)
+Kernel shape (K=16, C=3, H=3, W=3)
+
+Simulation all pass!

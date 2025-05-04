@@ -1,0 +1,54 @@
+[DLA test] qconv2d_relu_maxpool
+Input shape (N=1, C=64, H=16, W=16)
+Kernel shape (K=192, C=64, H=3, W=3)
+
+Start checking...
+[Checking] 0/12288
+[Checking] 256/12288
+[Checking] 512/12288
+[Checking] 768/12288
+[Checking] 1024/12288
+[Checking] 1280/12288
+[Checking] 1536/12288
+[Checking] 1792/12288
+[Checking] 2048/12288
+[Checking] 2304/12288
+[Checking] 2560/12288
+[Checking] 2816/12288
+[Checking] 3072/12288
+[Checking] 3328/12288
+[Checking] 3584/12288
+[Checking] 3840/12288
+[Checking] 4096/12288
+[Checking] 4352/12288
+[Checking] 4608/12288
+[Checking] 4864/12288
+[Checking] 5120/12288
+[Checking] 5376/12288
+[Checking] 5632/12288
+[Checking] 5888/12288
+[Checking] 6144/12288
+[Checking] 6400/12288
+[Checking] 6656/12288
+[Checking] 6912/12288
+[Checking] 7168/12288
+[Checking] 7424/12288
+[Checking] 7680/12288
+[Checking] 7936/12288
+[Checking] 8192/12288
+[Checking] 8448/12288
+[Checking] 8704/12288
+[Checking] 8960/12288
+[Checking] 9216/12288
+[Checking] 9472/12288
+[Checking] 9728/12288
+[Checking] 9984/12288
+[Checking] 10240/12288
+[Checking] 10496/12288
+[Checking] 10752/12288
+[Checking] 11008/12288
+[Checking] 11264/12288
+[Checking] 11520/12288
+[Checking] 11776/12288
+[Checking] 12032/12288
+Simulation all pass!
